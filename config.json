@@ -1,0 +1,12 @@
+{
+  "kdf_iterations": 390000,
+  "salt_size": 16,
+  "lock_timeout_seconds": 120,
+  "clipboard_clear_ms": 15000,
+  "max_failed_attempts": 5,
+  "lockout_duration_seconds": 30,
+  "password_warn_age_days": 90,
+  "default_password_length": 16,
+  "log_file": "vault.log",
+  "theme": "dark"
+}
